@@ -10,7 +10,7 @@ public class JunitExampleTest {
 	}
 	
 	@Test
-	public void TestMethod() {
+	public void testMethod() {
 		
 	}
 
